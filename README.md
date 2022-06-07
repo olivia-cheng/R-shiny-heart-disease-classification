@@ -2,10 +2,10 @@
 Heart disease is the leading cause of death in the United States, accounting for around 1 in every 4 deaths. This suggests that there is a tremendous amount of strain on doctors and people's demand for aids because of the high number of heart disease cases. Our DSS enables healthcare professionals (HCPs) to save time and mental power during consultations and enables rapid and predictive diagnosis. By studying the Cleveland database, we did descriptive analysis to uncover characteristics associated with heart disease and used a logistic regression model to estimate the likelihood of developing heart disease based on user inputs. 
 
 ## Contributors
-* Ting-Yun (Olivia) Cheng
+* Ishita Shah
 * Isha Agrawal
 * Paul Chen
-* Ishita Shah
+* Ting-Yun (Olivia) Cheng
 
 ## Programming Languages
 * R
